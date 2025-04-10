@@ -21,5 +21,4 @@ spec:
       - image: sidd1810/html:v1
         name: webtest
         imagePullPolicy: Always
-        ports:
-        - containerPort: 5000
+
