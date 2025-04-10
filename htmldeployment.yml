@@ -18,7 +18,7 @@ spec:
         app: htmldeployment
     spec:
       containers:
-      - image: htmldeployment
+        - image: sidd1810/html:v1
         name: webtest
         imagePullPolicy: Always
 
