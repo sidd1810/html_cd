@@ -22,5 +22,5 @@ spec:
         name: webtest
         imagePullPolicy: Always
         ports:
-        - containerPort: 5000
+        - containerPort: 80
 
