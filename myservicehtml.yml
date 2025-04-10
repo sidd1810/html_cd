@@ -11,7 +11,9 @@ spec:
     protocol: TCP
     targetPort: 5000
   selector:
-    app: 
+    app: htmldeployment
   type: NodePort
 status:
   loadBalancer: {}
+~
+
